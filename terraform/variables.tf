@@ -24,7 +24,7 @@ variable "pg_plan" {
 variable "service_name" {
   description = "Nome do serviço PostgreSQL"
   type        = string
-  default     = "dashboard-pg"
+  default     = "pg-samir-2026"
 }
 
 variable "database_name" {
