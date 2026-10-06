@@ -13,7 +13,7 @@ on:
       - "Dockerfile"
 
 env:
-  IMAGE_NAME: ghcr.io/${{ github.repository_owner }}/dashboard-app
+  IMAGE_NAME: ghcr.io/samircrl/aiven-devops-pipeline/dashboard-app
 
 jobs:
   test:
